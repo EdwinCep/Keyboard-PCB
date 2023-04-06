@@ -11,6 +11,6 @@ The goal of this project is to pick up skills involved in the PCB creation proce
 
 There will be seperate text files for each step.
 # Tools Used
-[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/)
-[KiCad](https://www.kicad.org/download/)
+1. [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/)
+2. [KiCad](https://www.kicad.org/download/)
 # References
