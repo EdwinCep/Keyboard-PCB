@@ -10,4 +10,7 @@ The goal of this project is to pick up skills involved in the PCB creation proce
 4. Send the PCB design out to be made.
 
 There will be seperate text files for each step.
+# Tools Used
+[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/)
+[KiCad](https://www.kicad.org/download/)
 # References
