@@ -9,4 +9,5 @@ The goal of this project is to pick up skills involved in the PCB creation proce
 3. Using this circuit diagram layout your components on a PCB editor.
 4. Send the PCB design out to be made.
 
+There will be seperate text files for each step.
 # References
