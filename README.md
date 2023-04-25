@@ -14,3 +14,9 @@ There will be seperate text files for each step.
 1. [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/)
 2. [KiCad](https://www.kicad.org/download/)
 # References
+1. [An old repository with a KiCad designed Keyboard Guide](https://github.com/ruiqimao/keyboard-pcb-guide)
+2. [KiCAD Keyboard Design Wiki](https://deskthority.net/wiki/KiCAD_keyboard_PCB_design_guide)
+3. [Keyboard Matrix Wiki](https://deskthority.net/wiki/Keyboard_matrix)
+4. [ATmega32U4 Data Sheet](https://www.mouser.com/datasheet/2/268/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet-1315135.pdf)
+5. [Tutorial Video on a Keyboard PCB Design with KiCAD](https://youtu.be/iznKltVU1yw)
+6. [PCB Cupid KiCad Tutorials](https://www.youtube.com/@pcbcupid/videos)
